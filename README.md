@@ -1,2 +1,2 @@
-# AWSSamples
-Aws related code
+# AWS 
+AWS Lambda Java API GW DynamoDB
